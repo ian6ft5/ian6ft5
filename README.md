@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ian6ft5
-- 👀 I’m interested in data analytics, business intelligence, full-stack development, and turn-based games.
-- 🌱 I’m currently learning Python via Codecademy Pro
-- 🙌 Thanks so much to Bradon Watkins who supported me by buying my first year of Pro access.
+- 👀 I’m interested in full-stack web development and turn-based games.
+- 🌱 I’m currently learning .NET Core
+- 🙌 Thanks so much to Bradon Watkins who supported me by buying my first year of Codecademy Pro access.
 - 💞️ I’m not actively looking to collaborate but would love feedback on my first project The Scribes. Open to opportunities if someone wants me though.
 - 📫 How to reach me: discord dm @Heuristix#8547
 
